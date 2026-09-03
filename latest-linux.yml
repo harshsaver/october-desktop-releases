@@ -1,12 +1,12 @@
-version: 1.0.46-nightly.20260831.9
+version: 1.0.46-nightly.20260903.10
 files:
-  - url: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.46-nightly.20260831.9/October-x64.AppImage
-    sha512: 5mjV/bXwPb2hglMpW7a7wPEfCDS2gdpjMI4H3qqf9olVvrUjl2uGuGSGn2NRjquwoxU0Qu/Qnql3tdIAmNU+Og==
-    size: 670807117
-    blockMapSize: 697441
-  - url: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.46-nightly.20260831.9/October-amd64.deb
-    sha512: 1c9NhZnLWAz9eVFJ2VY0BF/N/O5i1oFZ/G0ZamCh+PU5U6LBMKCtkfnXGGxxT+QZel+mho/WFaSc2LI2l4Og+g==
-    size: 482001528
-path: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.46-nightly.20260831.9/October-x64.AppImage
-sha512: 5mjV/bXwPb2hglMpW7a7wPEfCDS2gdpjMI4H3qqf9olVvrUjl2uGuGSGn2NRjquwoxU0Qu/Qnql3tdIAmNU+Og==
-releaseDate: '2026-08-31T19:25:25.832Z'
+  - url: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.46-nightly.20260903.10/October-x64.AppImage
+    sha512: GYE09jNvUrmxu2VVf9lKkh7fSk9JccHRMQldOhSH4e6VSzcol7N5updCrxfyI2rOwyneat4laRvnK2fKZRLRtQ==
+    size: 670737138
+    blockMapSize: 697094
+  - url: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.46-nightly.20260903.10/October-amd64.deb
+    sha512: TynJpFJ7CtYpjyMatWgtdLROIl6KmwyAD7uyPA1QRBGoA6LFKfxuKJNMJxXb7PFmjNPrtKsw8le9z8VbKrcHhg==
+    size: 482017940
+path: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.46-nightly.20260903.10/October-x64.AppImage
+sha512: GYE09jNvUrmxu2VVf9lKkh7fSk9JccHRMQldOhSH4e6VSzcol7N5updCrxfyI2rOwyneat4laRvnK2fKZRLRtQ==
+releaseDate: '2026-09-03T15:43:49.586Z'
