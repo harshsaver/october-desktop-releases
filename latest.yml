@@ -1,8 +1,8 @@
-version: 1.0.46-nightly.20260903.10
+version: 1.0.46-nightly.20260908.11
 files:
-  - url: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.46-nightly.20260903.10/October-x64.exe
-    sha512: R2D569hmPoy37XRntdzT5ox609Lxrj0erURlovKk0LtU+7SHTpClPLfQ9iTmdIhD9wJeVWG+Xswzo+f+RPjpOw==
-    size: 343735728
-path: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.46-nightly.20260903.10/October-x64.exe
-sha512: R2D569hmPoy37XRntdzT5ox609Lxrj0erURlovKk0LtU+7SHTpClPLfQ9iTmdIhD9wJeVWG+Xswzo+f+RPjpOw==
-releaseDate: '2026-09-03T15:52:21.501Z'
+  - url: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.46-nightly.20260908.11/October-x64.exe
+    sha512: kCYMq7vvzmrBn0xOi95kqvfxA/KwdTmXMNJ/ZiImrpp6NkN4kP9dapukwSqGxTot2mq9TddR2/GHriyvJP3bYA==
+    size: 375851616
+path: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.46-nightly.20260908.11/October-x64.exe
+sha512: kCYMq7vvzmrBn0xOi95kqvfxA/KwdTmXMNJ/ZiImrpp6NkN4kP9dapukwSqGxTot2mq9TddR2/GHriyvJP3bYA==
+releaseDate: '2026-09-08T08:43:48.262Z'
