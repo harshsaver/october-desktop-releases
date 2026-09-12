@@ -1,8 +1,8 @@
-version: 1.0.49
+version: 1.0.50
 files:
-  - url: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.49/October-1.0.49-arm64-mac.zip
-    sha512: UNSHcWh/2WPjckXCjbaKKKL2Em0OHtMJmDFS8xAdX4Ru9mns8BksSbc6lcsu/rjT31U4/HXYVhNkf5md5KSuKg==
-    size: 475813435
-path: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.49/October-1.0.49-arm64-mac.zip
-sha512: UNSHcWh/2WPjckXCjbaKKKL2Em0OHtMJmDFS8xAdX4Ru9mns8BksSbc6lcsu/rjT31U4/HXYVhNkf5md5KSuKg==
-releaseDate: '2026-09-11T00:53:27.272Z'
+  - url: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.50/October-1.0.50-arm64-mac.zip
+    sha512: T69d58fvIskHUZbm3VLoBAYVOtEf+3ERUuXVVh3Vi5KVMDbUiI05xBt4mqzqeSXk/pQWkrROTW418iH1yqrrZg==
+    size: 475696041
+path: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.50/October-1.0.50-arm64-mac.zip
+sha512: T69d58fvIskHUZbm3VLoBAYVOtEf+3ERUuXVVh3Vi5KVMDbUiI05xBt4mqzqeSXk/pQWkrROTW418iH1yqrrZg==
+releaseDate: '2026-09-12T18:55:50.867Z'
