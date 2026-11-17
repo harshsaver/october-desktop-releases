@@ -1,8 +1,8 @@
-version: 1.0.56
+version: 1.0.57
 files:
-  - url: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.56/October-x64.exe
-    sha512: pa3iuTRpdUeC/62eHof+nDX2NGzT0D05Ju+HojGGIDoG2SelKQlSGh8C2RUMd2Xn3/RP/bgJc4TFW29vGYkvpw==
-    size: 453532272
-path: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.56/October-x64.exe
-sha512: pa3iuTRpdUeC/62eHof+nDX2NGzT0D05Ju+HojGGIDoG2SelKQlSGh8C2RUMd2Xn3/RP/bgJc4TFW29vGYkvpw==
-releaseDate: '2026-10-21T12:22:22.549Z'
+  - url: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.57/October-x64.exe
+    sha512: PbDBp4KNQHC/Lj+hWP7kK8SUYJRqmMrBczT+0xFFy+zajaIFeyQghhQ2kP15XzkjdR89AQBXe1t3VzpmTt0ysg==
+    size: 252779256
+path: https://github.com/harshsaver/october-desktop-releases/releases/download/v1.0.57/October-x64.exe
+sha512: PbDBp4KNQHC/Lj+hWP7kK8SUYJRqmMrBczT+0xFFy+zajaIFeyQghhQ2kP15XzkjdR89AQBXe1t3VzpmTt0ysg==
+releaseDate: '2026-11-17T10:45:54.850Z'
